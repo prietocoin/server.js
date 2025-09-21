@@ -3,7 +3,7 @@ const { google } = require('googleapis');
 
 // 1. Configura tus credenciales de Google
 // Reemplaza 'TU_API_KEY' con tu clave de API real de Google Cloud.
-const sheets = google.sheets({ version: 'v4', auth: 'TU_API_KEY' });
+const sheets = google.sheets({ version: 'v4', auth: 'AIzaSyCsiHI3Yjkq-FcRo6wZWg5S5h87RLzKAt0' });
 
 // 2. Configura el ID de tu hoja de cálculo
 const spreadsheetId = '1_7nHZBxsqt7FQJ5CYs79KoJl8DZEck7tLYI0KgSArDc';
