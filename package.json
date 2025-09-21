@@ -1,0 +1,11 @@
+{
+  "name": "reporte-tablas",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "googleapis": "^120.0.0"
+  }
+}
